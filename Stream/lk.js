@@ -2,3 +2,8 @@
   console.log("kk");
   return k + b;
 })();
+
+function name(kk) {
+  return kk;
+}
+console.log(name("krishan"));
